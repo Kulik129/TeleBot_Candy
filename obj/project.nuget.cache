@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZ4AxR4dTn2yyy6JuWm4YP4usEpxMEB9e2KaMs417ssbB/kHfupdFRrUX1qpWTwULkAc/tEF0vUScp6zlQCGkA==",
+  "success": true,
+  "projectFilePath": "/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/TeleBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/mitya.kulikbk.ru/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

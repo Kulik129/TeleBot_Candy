@@ -1,0 +1,34 @@
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/bin/Debug/net6.0/TeleBot
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/bin/Debug/net6.0/TeleBot.deps.json
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/bin/Debug/net6.0/TeleBot.runtimeconfig.json
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/bin/Debug/net6.0/TeleBot.dll
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/bin/Debug/net6.0/TeleBot.pdb
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.csproj.AssemblyReference.cache
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.AssemblyInfoInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.AssemblyInfo.cs
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.csproj.CoreCompileInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.csproj.CopyComplete
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.dll
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/refint/TeleBot.dll
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.pdb
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/TeleBot.genruntimeconfig.cache
+/Users/mitya.kulikbk.ru/Desktop/telebot/TeleBot/obj/Debug/net6.0/ref/TeleBot.dll
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/bin/Debug/net6.0/TeleBot
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/bin/Debug/net6.0/TeleBot.deps.json
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/bin/Debug/net6.0/TeleBot.runtimeconfig.json
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/bin/Debug/net6.0/TeleBot.dll
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/bin/Debug/net6.0/TeleBot.pdb
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.csproj.AssemblyReference.cache
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.AssemblyInfoInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.AssemblyInfo.cs
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.csproj.CoreCompileInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.csproj.CopyComplete
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.dll
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/refint/TeleBot.dll
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.pdb
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/TeleBot.genruntimeconfig.cache
+/Users/mitya.kulikbk.ru/Desktop/бот игра с конфетами 2/TeleBot/obj/Debug/net6.0/ref/TeleBot.dll
